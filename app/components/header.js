@@ -18,7 +18,7 @@ export default function Header() {
       <div className='space-y-2 items-center text-center'>
         <div className='text-2xl font-light tracking-wider'>
           El cilindro que dura mas
-          <Image className='rounded-xl m-auto w-auto h-auto' alt='' src='/gas.jpg' height={50} width={50} priority />
+          <Image className='rounded-xl m-auto' alt='' src='/gas.jpg' height={50} width={50} priority />
         </div>
 
         <div className='text-slate-200'>Lps:320.00</div>
