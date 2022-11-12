@@ -22,7 +22,7 @@ export default function Post({ children }) {
                 <h2 className='title-font text-sm font-medium text-gray-500 mb-0'>Este Diciembre no te quedes sin gas</h2>
               </div>
 
-              <Image className='m-auto  object-cover object-center w-full h-auto ' alt='Post Admin' src='/postgas.jpg' width={320} height={400} />
+              <Image className='m-auto  object-cover object-center w-full' alt='Post Admin' src='/postgas.jpg' width={320} height={500} />
 
               {children}
             </div>
