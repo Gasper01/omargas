@@ -9,7 +9,7 @@ export default function Post({ children }) {
               <div className='w-full'>
                 <div className='w-full flex p-0'>
                   <div className='p-0 '>
-                    <Image className=' rounded-full overflow-hidden w-auto h-auto ' alt='' src='/gas.jpg' width={30} height={30} />
+                    <Image className=' rounded-full overflow-hidden ' alt='' src='/gas.jpg' width={40} height={40} />
                   </div>
                   <div className='pl-2 pt-2 '>
                     <p className='font-bold'>administrator</p>
